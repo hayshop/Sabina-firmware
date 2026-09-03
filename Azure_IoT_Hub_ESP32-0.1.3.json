@@ -1,0 +1,8 @@
+{
+  "sha256": "46fe1142a51d9afa1bd0ae7a433d29621db5ba3d70a04f65ef8bde8b35874259",
+  "signature": "MEYCIQCEVSM7ha/ONdxyNuFHcLp1zpcQIWpu4X2X0jZ0u5oRWgIhAPI9YQtdwMf2ssyHdMMHqt7FztZY9Yi/zAJjie37hw3S",
+  "signatureAlgorithm": "ECDSA-P256-SHA256",
+  "size": 1183040,
+  "url": "https://raw.githubusercontent.com/hayshop/Sabina-firmware/firmware-v0.1.3/Azure_IoT_Hub_ESP32-0.1.3.bin",
+  "version": "0.1.3"
+}
